@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WordTranslation</string>
+    <string name="wordToTranslate">Hola Ari!</string>
+    <string name="translateWord">traducir palabra</string>
+</resources>
